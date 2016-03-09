@@ -1,5 +1,5 @@
 # footbalscores
-Part 2 of Project 4 for Udacity Android Nanodegree
+Part 2 of Project 3 for Udacity Android Nanodegree
 
 ##Origin
 This project was supplied by Udacity for their Android Nanodegree program.
